@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:task_assesment/course_bar_view.dart';
+import 'package:task_assesment/main_view.dart';
 
 void main() {
   runApp(const MyApp());
